@@ -26,3 +26,7 @@ curl -v --header "User-Agent: cuica" http://localhost:4221/files/file_123
 - Performance
 - Implementar Servlets
 - Container
+
+## Créditos
+
+- https://app.codecrafters.io/courses/http-server/overview
